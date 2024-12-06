@@ -2,7 +2,7 @@
 
 
 - Hello, I'm Cyilin 👋
-- ![Cyilin1](https://komarev.com/ghpvc/?username=sumy7) ![Cyilin1](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
+- ![Cyilin1](https://komarev.com/ghpvc/?username=sumy7) ![Cyilin1](https://visitor-badge.glitch.me/badge?page_id=Cyilin1.profile)
 
 ## Tags
 
